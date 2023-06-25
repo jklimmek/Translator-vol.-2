@@ -2,7 +2,7 @@
 
 This project implements a Transformer Encoder-Decoder model trained on the WMT 4.6M dataset to translate sentences from German to English.
 
-## Usage
+## Details
 
 To see the performance of the specific model, please navigate to the following notebook:
 
