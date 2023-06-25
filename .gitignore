@@ -1,0 +1,8 @@
+data/
+inference_models/
+logs/
+runs/
+tokenizers/
+plots/
+scripts/__pycache__/
+commands.md

@@ -1,0 +1,19 @@
+model_hyperparams:
+  seq_len: 100
+  vocab_size: 10_000
+  embed_dim: 256
+  nhead: 4
+  dim_feedforward: 1024
+  activation: gelu
+  num_layers: 6
+  dropout: 0.1
+  label_smoothing: 0.0
+
+model_training:
+  lr: 0.003
+  betas: [0.9 ,0.999]
+  weight_decay: 0.1
+  batch_size: 100
+  max_epochs: 5
+  epochs: 1
+  accumulation_steps: 1

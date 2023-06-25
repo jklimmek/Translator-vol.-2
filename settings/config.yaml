@@ -1,0 +1,5 @@
+train_file: D:/projects/Torch/Translator vol.2/data/datasets/train-10000.pt
+dev_file: D:/projects/Torch/Translator vol.2/data/datasets/dev-10000.pt
+logs_dir: D:/projects/Torch/Translator vol.2/logs
+runs_dir: D:/projects/Torch/Translator vol.2/runs
+checkpoint_file: null
