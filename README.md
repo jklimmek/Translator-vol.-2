@@ -1,6 +1,6 @@
 # Translator-vol.-2
 
-This project implements a Transformer Encoder-Decoder model trained on the WMT 4.6M dataset to translate sentences from German to English.
+Dummy project that implements a Transformer Encoder-Decoder model trained on the WMT 4.6M dataset to translate sentences from German to English.
 
 ## Details
 
